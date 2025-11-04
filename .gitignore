@@ -1,0 +1,5 @@
+*.lnk
+documents/constitution.md
+infrastructure/terraform/development/actionlint
+
+temp/
