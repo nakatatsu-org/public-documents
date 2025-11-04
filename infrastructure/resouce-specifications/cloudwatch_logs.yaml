@@ -1,0 +1,2 @@
+rules:
+  - Log group names for Lambda functions must use the "/aws/lambda/" prefix.
